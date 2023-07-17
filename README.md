@@ -71,4 +71,4 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Gustavo Henrique</a> ☕</h3>
