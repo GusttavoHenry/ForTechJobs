@@ -59,10 +59,10 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/eoLucasS">
-        <img src="https://cdn.discordapp.com/attachments/1049167666876776458/1049179325410312292/tdi.png" width="100px;" /><br>
+      <a href="https://github.com/GusttavoHenry">
+        <img src="https://cdn.discordapp.com/attachments/696922608343449614/1053626240310980608/T7Nds7IX_400x400.jpg" width="100px;" /><br>
         <sub>
-          <b>Lucas Lopes</b>
+          <b>Gustavo Henrique</b>
         </sub>
       </a>
     </td>
